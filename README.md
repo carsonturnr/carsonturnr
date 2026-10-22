@@ -1,6 +1,6 @@
 ## Hi 👋, I'm Carson
 
-**Full-stack & mobile engineer building AI agents, web apps, and iOS apps for real businesses.**<br>
+**Full-stack & mobile engineer building web apps and AI agents for real businesses.**<br>
 CS @ Ole Miss · TypeScript · React · Swift · Python · Postgres
 
 <p align="center">
@@ -38,6 +38,7 @@ I'm the sole engineer on a two-person studio that ships AI-native systems for sm
 
 ### AI
 ![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-3B78E7?style=for-the-badge&logo=googlegemini&logoColor=white)
 ![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=claude&logoColor=white)
 ![pgvector](https://img.shields.io/badge/pgvector-3E6A92?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Langfuse](https://img.shields.io/badge/Langfuse-0A0A0A?style=for-the-badge)
@@ -53,4 +54,4 @@ Breaks ad creatives down scene by scene with vision models, ties the results to 
 
 ### 🏃 [Stride Lab](https://trystridelab.vercel.app): motion-capture running analysis from your phone
 Turns treadmill or race footage into eleven research-backed biomechanics metrics, including a fatigue breakdown measured against your own fresh baseline. Includes an AI coach that's grounded in the measured numbers.<br>
-`Python` `Computer vision` `FastAPI` `Modal` · [Code](https://github.com/carsonturnr/stride-lab)
+`TypeScript` `React` `Vite` `Tailwind` `Supabase` · [Code](https://github.com/carsonturnr/stride-lab)
