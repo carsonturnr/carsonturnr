@@ -1,7 +1,9 @@
 ## Hi 👋, I'm Carson
 
-**Full-stack engineer building AI agents and production web apps for real businesses.**<br>
-CS @ Ole Miss · TypeScript, React, Python, Postgres · Background in paid social and direct-response marketing
+**Full-stack & mobile engineer building AI agents, web apps, and iOS apps for real businesses.**<br>
+CS @ Ole Miss · TypeScript · React · Swift · Python · Postgres
+
+📫 **Open to software engineering roles**
 
 <p align="center">
   <img src="assets/terminal.svg" alt="Terminal: whoami prints Carson Turner, Full Stack and Mobile Engineer; stack prints TypeScript, React, Swift, SwiftUI, Python, Postgres, AI Agents" width="860" />
@@ -10,8 +12,6 @@ CS @ Ole Miss · TypeScript, React, Python, Postgres · Background in paid socia
 I build software that takes work off a business owner's plate. Day to day, that means shipping websites, internal tools, and AI agents for small businesses in construction, the building trades, and real estate. I own every build from scoping through deployment and maintenance.
 
 I came to engineering from paid acquisition on Meta and TikTok, so I build with the business outcome in mind, not just the spec.
-
-📫 **Open to software engineering roles**
 
 ---
 
