@@ -33,8 +33,7 @@ I'm the sole engineer on a two-person studio that ships AI-native systems for sm
 <img src="https://skillicons.dev/icons?i=ts,js,py,react,vite,tailwind" alt="TypeScript, JavaScript, Python, React, Vite, Tailwind" />
 
 ### Mobile
-<img src="https://skillicons.dev/icons?i=swift" alt="Swift" />
-<img src="https://img.shields.io/badge/SwiftUI-0D96F6?style=for-the-badge&logo=swift&logoColor=white" alt="SwiftUI" />
+<img src="https://skillicons.dev/icons?i=swift" alt="Swift" />&nbsp;<img src="https://img.shields.io/badge/SwiftUI-0D96F6?style=for-the-badge&logo=swift&logoColor=white" alt="SwiftUI" height="48" />
 
 ### Backend and infra
 <img src="https://skillicons.dev/icons?i=nodejs,supabase,postgres,fastapi,vercel,githubactions,git" alt="Node.js, Supabase, Postgres, FastAPI, Vercel, GitHub Actions, Git" />
