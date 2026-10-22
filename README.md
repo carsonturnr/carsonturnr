@@ -1,6 +1,6 @@
 ## Hi 👋, I'm Carson
 
-**Full-stack engineer building AI agents and production web apps for real businesses.**
+**Full-stack engineer building AI agents and production web apps for real businesses.**<br>
 CS @ Ole Miss · TypeScript, React, Python, Postgres · Background in paid social and direct-response marketing
 
 <p align="center">
@@ -17,7 +17,7 @@ I came to engineering from paid acquisition on Meta and TikTok, so I build with 
 
 ## 💼 What I do
 
-**Lead developer, client agency (2025–present)**
+**Lead developer, client agency (2025–present)**<br>
 I'm the sole engineer on a two-person studio that ships AI-native systems for small businesses.
 
 - 🤖 **AI agents in production:** email follow-up agents that work leads and quotes without anyone babysitting them
@@ -48,9 +48,9 @@ I'm the sole engineer on a two-person studio that ships AI-native systems for sm
 ## 🚀 Featured projects
 
 ### 🧩 [Mosaic](https://mosaicads.vercel.app): AI creative strategist for Meta ads
-Breaks ad creatives down scene by scene with vision models, ties the results to performance using empirical-Bayes statistics, and recommends what to make next. Every claim cites its source data.
+Breaks ad creatives down scene by scene with vision models, ties the results to performance using empirical-Bayes statistics, and recommends what to make next. Every claim cites its source data.<br>
 `Gemini` `Claude` `Postgres` `pgvector` `Evals in CI` · [Code](https://github.com/carsonturnr/mosaic) · MVP Dec 2026
 
 ### 🏃 [Stride Lab](https://trystridelab.vercel.app): motion-capture running analysis from your phone
-Turns treadmill or race footage into eleven research-backed biomechanics metrics, including a fatigue breakdown measured against your own fresh baseline. Includes an AI coach that's grounded in the measured numbers.
+Turns treadmill or race footage into eleven research-backed biomechanics metrics, including a fatigue breakdown measured against your own fresh baseline. Includes an AI coach that's grounded in the measured numbers.<br>
 `Python` `Computer vision` `FastAPI` `Modal` · [Code](https://github.com/carsonturnr/stride-lab) · Early 2027
