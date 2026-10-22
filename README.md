@@ -12,6 +12,20 @@
 
 I build products where AI does a job that used to need an expensive specialist. I came to engineering from paid social and direct-response marketing, and I still race the 800m, so the two things I'm building come straight out of those worlds.
 
+## 🛠️ Tech stack
+
+**Languages and product**
+
+<img src="https://skillicons.dev/icons?i=ts,py,react,vite,tailwind,vercel" alt="TypeScript, Python, React, Vite, Tailwind, Vercel" />
+
+**Data and backend**
+
+<img src="https://skillicons.dev/icons?i=postgres,supabase,fastapi,githubactions,git" alt="Postgres, Supabase, FastAPI, GitHub Actions, Git" />
+
+**AI**
+
+<img src="https://img.shields.io/badge/Gemini-1A73E8?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Gemini" /> <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white" alt="Claude" /> <img src="https://img.shields.io/badge/Modal-111111?style=for-the-badge&logoColor=white" alt="Modal" /> <img src="https://img.shields.io/badge/pgvector-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="pgvector" /> <img src="https://img.shields.io/badge/Langfuse-0A0A0A?style=for-the-badge&logoColor=white" alt="Langfuse" />
+
 ## 🚀 What I'm building
 
 <table>
@@ -54,23 +68,3 @@ Upload footage from a treadmill, a workout or a race and get a research-backed b
 ## 🧠 How I build
 
 Both projects share one shape: turn raw media into structured facts, reason over those facts with real statistics, then let a model explain them, and check that it told the truth.
-
-
-## 🛠️ Tech stack
-
-**Languages and product**
-
-<img src="https://skillicons.dev/icons?i=ts,py,react,vite,tailwind,vercel" alt="TypeScript, Python, React, Vite, Tailwind, Vercel" />
-
-**Data and backend**
-
-<img src="https://skillicons.dev/icons?i=postgres,supabase,fastapi,githubactions,git" alt="Postgres, Supabase, FastAPI, GitHub Actions, Git" />
-
-**AI**
-
-<img src="https://img.shields.io/badge/Gemini-1A73E8?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Gemini" /> <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white" alt="Claude" /> <img src="https://img.shields.io/badge/Modal-111111?style=for-the-badge&logoColor=white" alt="Modal" /> <img src="https://img.shields.io/badge/pgvector-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="pgvector" /> <img src="https://img.shields.io/badge/Langfuse-0A0A0A?style=for-the-badge&logoColor=white" alt="Langfuse" />
-
-## 🏁 Off the keyboard
-
-- 🏃 Racing the 800m. Form breaks down most in races and hard reps, which is exactly what Stride Lab is built to measure.
-- 📈 A background in paid social and direct-response marketing on Meta and TikTok, which is where Mosaic comes from.
