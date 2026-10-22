@@ -38,7 +38,6 @@ I'm the sole engineer on a two-person studio that ships AI-native systems for sm
 
 ### AI
 ![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white)
-![Gemini](https://img.shields.io/badge/Gemini-3B78E7?style=for-the-badge&logo=googlegemini&logoColor=white)
 ![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=claude&logoColor=white)
 ![pgvector](https://img.shields.io/badge/pgvector-3E6A92?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Langfuse](https://img.shields.io/badge/Langfuse-0A0A0A?style=for-the-badge)
