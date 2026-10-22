@@ -49,8 +49,8 @@ I'm the sole engineer on a two-person studio that ships AI-native systems for sm
 
 ### 🧩 [Mosaic](https://mosaicads.vercel.app): AI creative strategist for Meta ads
 Breaks ad creatives down scene by scene with vision models, ties the results to performance using empirical-Bayes statistics, and recommends what to make next. Every claim cites its source data.<br>
-`Gemini` `Claude` `Postgres` `pgvector` `Evals in CI` · [Code](https://github.com/carsonturnr/mosaic) · MVP Dec 2026
+`Gemini` `Claude` `Postgres` `pgvector` `Evals in CI` · [Code](https://github.com/carsonturnr/mosaic)
 
 ### 🏃 [Stride Lab](https://trystridelab.vercel.app): motion-capture running analysis from your phone
 Turns treadmill or race footage into eleven research-backed biomechanics metrics, including a fatigue breakdown measured against your own fresh baseline. Includes an AI coach that's grounded in the measured numbers.<br>
-`Python` `Computer vision` `FastAPI` `Modal` · [Code](https://github.com/carsonturnr/stride-lab) · Early 2027
+`Python` `Computer vision` `FastAPI` `Modal` · [Code](https://github.com/carsonturnr/stride-lab)
