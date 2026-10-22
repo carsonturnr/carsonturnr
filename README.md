@@ -1,47 +1,49 @@
-### Hi, I'm Carson.
+<h1 align="center">Hi 👋, I'm Carson</h1>
 
-I build applied-AI products: pretrained perception, domain-specific analytics, and LLM agents that show their work.
+<p align="center">
+  <a href="https://github.com/carsonturnr">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3200&pause=1200&color=7EE787&center=true&vCenter=true&width=640&lines=I+build+applied-AI+products.;Vision+models+%E2%86%92+real+statistics+%E2%86%92+agents+that+cite+sources.;Paid+social+background.+800m+runner." alt="I build applied-AI products. Vision models, real statistics, agents that cite sources. Paid social background. 800m runner." />
+  </a>
+</p>
 
-I came to engineering from paid social and direct-response marketing, and I still race the 800m. The two projects below come straight out of those worlds: one does the job of a creative strategist for ad accounts, the other does the job of a motion-capture lab for runners.
+<p align="center">
+  <img src="assets/terminal.svg" alt="Terminal showing whoami, the Mosaic and Stride Lab projects, and the perceive, analyze, explain, verify loop" width="860" />
+</p>
 
----
+I build products where AI does a job that used to need an expensive specialist. I came to engineering from paid social and direct-response marketing, and I still race the 800m, so the two things I'm building come straight out of those worlds.
 
-## Building now
+## 🚀 What I'm building
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### [Mosaic](https://github.com/carsonturnr/mosaic)
+### 🧩 [Mosaic](https://github.com/carsonturnr/mosaic)
 
 **An AI creative strategist for Meta ads.**
 
 Connect an ad account and Mosaic breaks every creative down scene by scene, ties what it sees to performance, and says what to make next. Every claim cites the ads and numbers behind it.
 
-- Vision models tag hooks, angles, formats and offers as schema-validated JSON
-- Empirical-Bayes shrinkage so a $40 ad never gets crowned the winner
-- Strategist agent with typed tools and a grounding check on every cited number
-- Evals in CI against a synthetic account with planted patterns
-
-`TypeScript` `React` `Python` `FastAPI` `Supabase` `pgvector` `Modal` `Gemini` `Claude`
+- 🎬 Vision models tag hooks, angles, formats and offers as validated JSON
+- 📊 Empirical-Bayes shrinkage, so a $40 ad never gets crowned the winner
+- 🧠 Strategist agent with typed tools and a grounding check on every number
+- ✅ Evals in CI against a synthetic account with planted patterns
 
 [**Live site**](https://mosaicads.vercel.app) · [**Code**](https://github.com/carsonturnr/mosaic) · MVP December 2026
 
 </td>
 <td width="50%" valign="top">
 
-### [Stride Lab](https://github.com/carsonturnr/stride-lab)
+### 🏃 [Stride Lab](https://github.com/carsonturnr/stride-lab)
 
 **A motion-capture lab in your phone.**
 
 Upload footage from a treadmill, a workout or a race and get a research-backed breakdown of injury risk, efficiency and symmetry, including where your form breaks down when you're tired.
 
-- Tap yourself once in race footage and get tracked through the clip
-- Eleven metrics drawn from published biomechanics research
-- Fatigue breakdown against your own fresh baseline, step by step
-- A coach grounded in the measured numbers, never a diagnosis
-
-`Python` `RTMPose` `YOLO` `ByteTrack` `Modal` `React` `Supabase` `Claude`
+- 🎯 Tap yourself once in race footage and get tracked through the clip
+- 🔬 Eleven metrics drawn from published biomechanics research
+- 📉 Fatigue breakdown against your own fresh baseline, step by step
+- 🗣️ A coach grounded in the measured numbers, never a diagnosis
 
 [**Live site**](https://trystridelab.vercel.app) · [**Code**](https://github.com/carsonturnr/stride-lab) · Launching early 2027
 
@@ -49,24 +51,34 @@ Upload footage from a treadmill, a workout or a race and get a research-backed b
 </tr>
 </table>
 
-## The pattern
+## 🧠 How I build
 
-Both projects share one architecture: turn raw media into structured facts, reason over those facts with real statistics, then let a model explain them, and check that it told the truth.
+Both projects share one shape: turn raw media into structured facts, reason over those facts with real statistics, then let a model explain them, and check that it told the truth.
 
 ```mermaid
 flowchart LR
-    A[Raw media<br/>ads · running video] --> B[Perceive<br/>vision models · pose estimation]
-    B --> C[Analyze<br/>shrinkage · biomechanics]
-    C --> D[Explain<br/>agent with typed tools]
-    D --> E{Grounding check}
-    E -->|every number matches| F[Report]
-    E -->|mismatch| D
+    A[Perceive<br/>vision · pose] --> B[Analyze<br/>stats · biomechanics]
+    B --> C[Explain<br/>agent + tools]
+    C --> D{Numbers match?}
+    D -->|yes| E[Report]
+    D -->|no| C
 ```
 
-## Toolbox
+## 🛠️ Tech stack
 
-- **Languages:** TypeScript · Python · SQL
-- **Product:** React · Vite · Tailwind · Vercel
-- **Data and infra:** Postgres · Supabase · pgvector · FastAPI · Modal
-- **AI:** Gemini · Claude · structured outputs · tool use · evals · Langfuse
-- **Domain:** Meta Marketing API · paid social · direct response · DTC funnels · running biomechanics
+**Languages and product**
+
+<img src="https://skillicons.dev/icons?i=ts,py,react,vite,tailwind,vercel" alt="TypeScript, Python, React, Vite, Tailwind, Vercel" />
+
+**Data and backend**
+
+<img src="https://skillicons.dev/icons?i=postgres,supabase,fastapi,githubactions,git" alt="Postgres, Supabase, FastAPI, GitHub Actions, Git" />
+
+**AI**
+
+<img src="https://img.shields.io/badge/Gemini-1A73E8?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Gemini" /> <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white" alt="Claude" /> <img src="https://img.shields.io/badge/Modal-111111?style=for-the-badge&logoColor=white" alt="Modal" /> <img src="https://img.shields.io/badge/pgvector-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="pgvector" /> <img src="https://img.shields.io/badge/Langfuse-0A0A0A?style=for-the-badge&logoColor=white" alt="Langfuse" />
+
+## 🏁 Off the keyboard
+
+- 🏃 Racing the 800m. Form breaks down most in races and hard reps, which is exactly what Stride Lab is built to measure.
+- 📈 A background in paid social and direct-response marketing on Meta and TikTok, which is where Mosaic comes from.
