@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/carsonturnr">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3200&pause=1200&color=7EE787&center=true&vCenter=true&width=640&lines=I+build+applied-AI+products.;Vision+models+%E2%86%92+real+statistics+%E2%86%92+agents+that+cite+sources.;Paid+social+background.+800m+runner." alt="I build applied-AI products. Vision models, real statistics, agents that cite sources. Paid social background. 800m runner." />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3200&pause=1200&color=7EE787&center=true&vCenter=true&width=760&lines=I+build+applied-AI+products.;Vision+models+%E2%86%92+statistics+%E2%86%92+cited+answers.;Paid+social+background.+800m+runner." alt="I build applied-AI products. Vision models, statistics, cited answers. Paid social background. 800m runner." />
   </a>
 </p>
 
@@ -55,14 +55,6 @@ Upload footage from a treadmill, a workout or a race and get a research-backed b
 
 Both projects share one shape: turn raw media into structured facts, reason over those facts with real statistics, then let a model explain them, and check that it told the truth.
 
-```mermaid
-flowchart LR
-    A[Perceive<br/>vision · pose] --> B[Analyze<br/>stats · biomechanics]
-    B --> C[Explain<br/>agent + tools]
-    C --> D{Numbers match?}
-    D -->|yes| E[Report]
-    D -->|no| C
-```
 
 ## 🛠️ Tech stack
 
