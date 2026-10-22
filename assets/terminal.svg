@@ -20,7 +20,7 @@
   <text x="430" y="23" text-anchor="middle" class="t dim" style="font-size:13px">carson@lab: ~</text>
 
   <text x="24" y="70" class="t"><tspan class="prompt">carson@lab</tspan><tspan class="dim">:</tspan><tspan class="path">~</tspan><tspan class="dim">$ </tspan><tspan class="cmd">whoami</tspan></text>
-  <text x="24" y="94" class="t out">builds applied-AI products · came up in paid social · races the 800m</text>
+  <text x="24" y="94" class="t out">builds applied-AI products · came up in paid social</text>
 
   <text x="24" y="132" class="t"><tspan class="prompt">carson@lab</tspan><tspan class="dim">:</tspan><tspan class="path">~</tspan><tspan class="dim">$ </tspan><tspan class="cmd">ls ~/building</tspan></text>
   <text x="24" y="156" class="t"><tspan class="accent">mosaic/      </tspan><tspan class="dim">→ </tspan><tspan class="out">an AI creative strategist for Meta ads</tspan></text>
