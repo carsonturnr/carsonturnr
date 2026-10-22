@@ -3,8 +3,6 @@
 **Full-stack & mobile engineer building AI agents, web apps, and iOS apps for real businesses.**<br>
 CS @ Ole Miss · TypeScript · React · Swift · Python · Postgres
 
-📫 **Open to software engineering roles**
-
 <p align="center">
   <img src="assets/terminal.svg" alt="Terminal: whoami prints Carson Turner, Full Stack and Mobile Engineer; stack prints TypeScript, React, Swift, SwiftUI, Python, Postgres, AI Agents" width="860" />
 </p>
@@ -17,7 +15,7 @@ I came to engineering from paid acquisition on Meta and TikTok, so I build with 
 
 ## 💼 What I do
 
-**Lead developer, client agency (2025–present)**<br>
+**Lead developer, [Krastor Inc](https://krastor.com) (2025–present)**<br>
 I'm the sole engineer on a two-person studio that ships AI-native systems for small businesses.
 
 - 🤖 **AI agents in production:** email follow-up agents that work leads and quotes without anyone babysitting them
