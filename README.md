@@ -7,9 +7,9 @@ CS @ Ole Miss · TypeScript · React · Swift · Python · Postgres
   <img src="assets/terminal.svg" alt="Terminal: whoami prints Carson Turner, Full Stack and Mobile Engineer; stack prints TypeScript, React, Swift, SwiftUI, Python, Postgres, AI Agents" width="860" />
 </p>
 
-I build software that takes work off a business owner's plate. Day to day, that means shipping websites, internal tools, and AI agents for small businesses in construction, the building trades, and real estate. I own every build from scoping through deployment and maintenance.
+I build software that automates operations and drives revenue for growing businesses. My client work spans production web applications, internal tools, mobile apps, and AI agents for companies in construction, the building trades, and real estate. I own each project end to end, from requirements and architecture through deployment and ongoing maintenance.
 
-I came to engineering from paid acquisition on Meta and TikTok, so I build with the business outcome in mind, not just the spec.
+Outside client work, I'm drawn to applied AI in health and wellness and in DTC/e-commerce, especially problems where models can take on work that once required an expert. That interest is what's behind my current projects, Mosaic and Stride Lab.
 
 ---
 
