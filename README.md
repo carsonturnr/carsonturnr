@@ -4,7 +4,7 @@
 CS @ Ole Miss · TypeScript, React, Python, Postgres · Background in paid social and direct-response marketing
 
 <p align="center">
-  <img src="assets/terminal.svg" alt="Terminal showing whoami, the Mosaic and Stride Lab projects, and the perceive, analyze, explain, verify loop" width="860" />
+  <img src="assets/terminal.svg" alt="Terminal: whoami prints Carson Turner, Full Stack and Mobile Engineer; stack prints TypeScript, React, Swift, SwiftUI, Python, Postgres, AI Agents" width="860" />
 </p>
 
 I build software that takes work off a business owner's plate. Day to day, that means shipping websites, internal tools, and AI agents for small businesses in construction, the building trades, and real estate. I own every build from scoping through deployment and maintenance.
@@ -31,6 +31,10 @@ I'm the sole engineer on a two-person studio that ships AI-native systems for sm
 
 ### Languages and frontend
 <img src="https://skillicons.dev/icons?i=ts,js,py,react,vite,tailwind" alt="TypeScript, JavaScript, Python, React, Vite, Tailwind" />
+
+### Mobile
+<img src="https://skillicons.dev/icons?i=swift" alt="Swift" />
+<img src="https://img.shields.io/badge/SwiftUI-0D96F6?style=for-the-badge&logo=swift&logoColor=white" alt="SwiftUI" />
 
 ### Backend and infra
 <img src="https://skillicons.dev/icons?i=nodejs,supabase,postgres,fastapi,vercel,githubactions,git" alt="Node.js, Supabase, Postgres, FastAPI, Vercel, GitHub Actions, Git" />
