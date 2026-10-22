@@ -18,10 +18,10 @@ I came to engineering from paid acquisition on Meta and TikTok, so I build with 
 **Lead developer, [Krastor Inc](https://krastor.com) (2025–present)**<br>
 I'm the sole engineer on a two-person studio that ships AI-native systems for small businesses.
 
-- 🤖 **AI agents in production:** email follow-up agents that work leads and quotes without anyone babysitting them
-- 💸 **Quote-to-cash systems:** quoting, follow-up, and payment flows inside a custom ops dashboard ("command center")
-- 🌐 **Marketing sites and rebuilds:** fast, conversion-focused sites for trades and outdoor businesses
-- 🛠️ **Self-serve dev environments:** set up Claude Code, GitHub, and Vercel pipelines so non-technical clients can ship their own site updates safely
+- 🤖 **AI agents:** Built and deployed autonomous agents that manage lead and quote follow-up end to end, cutting manual sales work
+- 💸 **Quote-to-cash platforms:** Engineered quoting, follow-up, and payment workflows within custom internal operations dashboards
+- 🌐 **Web platforms:** Delivered high-performance, conversion-optimized websites and full rebuilds for service businesses
+- 🛠️ **Developer tooling and CI/CD:** Designed GitHub and Vercel deployment pipelines with AI-assisted workflows, enabling non-technical stakeholders to ship updates safely
 
 ---
 
