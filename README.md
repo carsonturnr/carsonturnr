@@ -1,4 +1,4 @@
-## Hi 👋, I'm Carson
+## Hi, I'm Carson
 
 **Full-stack & mobile engineer building web apps and AI agents for real businesses.**<br>
 CS @ Ole Miss · TypeScript · React · Swift · Python · Postgres
