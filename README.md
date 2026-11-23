@@ -1,21 +1,21 @@
-## Hi, I'm Carson 👋
+### Carson Turner
 
-Software engineer at [Krastor](https://krastor.com) by day, track athlete at Ole Miss by afternoon, and building my own products in whatever time is left.
+Software engineer. AI products, data systems and iOS apps.
 
-### 🔨 What I'm building
+**[Sway](https://swaygrowth.com)** — Growth analytics for iOS subscription apps. Ties every post and ad to paying subscribers.<br>
+`TypeScript` `Postgres` `Claude`
 
-- 📈 **[Sway](https://swaygrowth.com)**: shows iOS subscription apps which posts and ads actually bring in paying subscribers
-- 📊 **[Manta](https://mantamarkets.com)**: live data and fair-value pricing for Kalshi and Polymarket
-- 📖 **[Rapha](https://getrapha.co)**: a devotional app on the App Store that writes each user a personal plan
+**[Manta](https://mantamarkets.com)** — Live analytics terminal for Kalshi and Polymarket. 2.3B+ market messages recorded.<br>
+`Go` `Python` `Postgres`
 
-### 💼 At Krastor
+**[Rapha](https://getrapha.co)** — Personalized devotional app, live on the App Store.<br>
+`SwiftUI` `Supabase` `Claude`
 
-Design-and-price tools, online stores, CRMs and AI follow-up agents for small businesses in construction, real estate and the building trades.
-
-### 🛠️ Stack
+**Experience**<br>
+Software Engineer, Krastor · 2026–now<br>
+Software Engineer, McCarren Capital · 2025–26<br>
+Founder, Swift Flight · 2022–25
 
 <img src="https://skillicons.dev/icons?i=ts,py,go,swift,react,nextjs,postgres,supabase" alt="TypeScript, Python, Go, Swift, React, Next.js, Postgres, Supabase" />
 
-### 📫 Find me
-
-[carsonturner.me](https://carsonturner.me) · [LinkedIn](https://www.linkedin.com/in/carsonturner1/)
+[carsonturner.me](https://carsonturner.me) · [Resume](https://carsonturner.me/resume.pdf) · [LinkedIn](https://www.linkedin.com/in/carsonturner1/)
